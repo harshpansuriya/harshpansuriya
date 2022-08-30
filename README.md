@@ -7,7 +7,7 @@ I'm Smit, a Computer Science student intrested in web development and applicatio
 
 ### 📫 Find me here: ...
 Personal Website: <a href = "https://realharsh.live/">realharsh.live</a><br/>
-Linkedin: [linkedin/smit-gabani](https://www.linkedin.com/in/harsh-pansuriya-385569183/)
+Linkedin: [linkedin/harsh-pansuriya](https://www.linkedin.com/in/harsh-pansuriya-385569183/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=harshpansuriya&style=for-the-badge)
 
