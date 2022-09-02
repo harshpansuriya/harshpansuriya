@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Smit, a Computer Science student intrested in web development and application development. I'm currently working on small projects with skills I am learning.
+I'm Harsh, a Computer Programmer student intrested in web/app development and Blockchain development. I'm currently working on small projects with skills I am learning (Some are big projects 😄).
 
 ### 🔭 Some things I've worked on ...
 
