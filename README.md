@@ -12,6 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshpansuriya&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshpansuriya&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
